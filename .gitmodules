@@ -1,0 +1,3 @@
+[submodule "wake"]
+	path = wake
+	url = https://github.com/sifive/wake.git
